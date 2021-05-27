@@ -1,9 +1,9 @@
 import React from "react";
 
-function About(props) {
-    return (
+function Projects(props) {
+    return(
         <div>
-            <h1>About</h1>
+            <h1>Projects</h1>
         </div>
     )
 }
